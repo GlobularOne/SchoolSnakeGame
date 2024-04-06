@@ -150,7 +150,7 @@ namespace SchoolSnakeGame
 
         private void CreditsButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Development and design: Kamyar Hatamnezhad\nSound effects: SoundSnap (Format conversion using freeconvert.com)", "Credits");
+            MessageBox.Show("Development and design: Kamyar Hatamnezhad", "Credits");
         }
         private void CheckColors()
         {
